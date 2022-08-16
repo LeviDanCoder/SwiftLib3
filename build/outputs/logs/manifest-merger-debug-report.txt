@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml:2:1-65
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml:2:1-65
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml:2:1-65
+	package
+		ADDED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml:2:11-62
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml:2:1-65
+uses-sdk
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/src/androidMain/AndroidManifest.xml

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared"
+    name=":shared"
+    type="LIBRARY"
+    maven="KotlinMultiplatformApiLibrary:shared:"
+    gradle="7.3.0-beta05"
+    buildFolder="build"
+    bootClassPath="/Users/dan/Library/Android/sdk/platforms/android-32/android.jar:/Users/dan/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
