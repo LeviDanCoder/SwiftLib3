@@ -46,14 +46,14 @@ kotlin {
         }
     }
 
+
     multiplatformSwiftPackage {
         packageName("KotlinApi")
         swiftToolsVersion("5.3")
         targetPlatforms {
             iOS { v("13") }
+            macOS{ v("10_15") }
         }
-        distributionMode { remote("https://github.com/LeviDanCoder/IosTestLib1") }
-
     }
 
     sourceSets {
@@ -67,8 +67,6 @@ kotlin {
                 implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
 
                 implementation("io.ktor:ktor-client-logging:$ktorVersion")
-
-
             }
         }
         val commonTest by getting {
