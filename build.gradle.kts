@@ -47,10 +47,13 @@ kotlin {
     }
 
     multiplatformSwiftPackage {
+        packageName("KotlinApi")
         swiftToolsVersion("5.3")
         targetPlatforms {
             iOS { v("13") }
         }
+        distributionMode { remote("https://github.com/LeviDanCoder/IosTestLib1") }
+
     }
 
     sourceSets {

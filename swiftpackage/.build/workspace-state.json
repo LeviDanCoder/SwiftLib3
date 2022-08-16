@@ -1,0 +1,23 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "swiftpackage",
+          "kind" : "root",
+          "location" : "/Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/swiftpackage",
+          "name" : "swiftpackage"
+        },
+        "path" : "/Users/dan/AndroidStudioProjects/KotlinMultiplatformApiLibrary/shared/swiftpackage/KotlinApi.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "KotlinApi"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}

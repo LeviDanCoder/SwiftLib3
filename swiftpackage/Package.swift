@@ -2,20 +2,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "shared",
+    name: "KotlinApi",
     platforms: [
         .iOS(.v13)
     ],
     products: [
         .library(
-            name: "shared",
-            targets: ["shared"]
+            name: "KotlinApi",
+            targets: ["KotlinApi"]
         ),
     ],
     targets: [
         .binaryTarget(
-            name: "shared",
-            path: "./shared.xcframework"
+            name: "KotlinApi",
+            path: "./KotlinApi.xcframework"
         ),
     ]
 )
